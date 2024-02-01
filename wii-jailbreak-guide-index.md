@@ -2,7 +2,7 @@
 title: Wii Jailbreaks
 description: Wii Jailbreak Guide Index
 published: true
-date: 2024-01-31T20:31:20.895Z
+date: 2024-02-01T00:06:09.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T20:13:59.139Z
@@ -38,7 +38,7 @@ dateCreated: 2024-01-31T20:13:59.139Z
   </tr>
     </tr>
     <tr>
-    <td>Nintendo vWii</td>
+    <td>Nintendo Wii U (vWii)</td>
     <td>Various</td>
     <td>N/A</td>
     <td>N/A</td>

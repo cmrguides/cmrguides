@@ -2,13 +2,28 @@
 title: Wii Jailbreaks
 description: Wii Jailbreak Guide Index
 published: true
-date: 2024-02-01T00:09:37.042Z
+date: 2024-02-01T00:10:29.758Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T20:13:59.139Z
 ---
 
 # Wii Jailbreak Guide Index
+---
+> <b>Guide Support:</b>
+> For guide support, please contact the contributor / author directly. 
+{.is-info}
+
+> <b>Note:</b>
+> Please choose the right jailbreak for your application. An incorrect jailbreak may cause irreversible damage to your console. 
+{.is-warning}
+
+> <b>Warning:</b>
+> cmrguides will not be held responsible for any damages caused throughout the jailbreaking process! Jailbreaking is conducted at your own risk. 
+{.is-danger}
+
+---
+
 <center>
   <p>Choose your jailbeak type from the table below.</p> 
 <table>
@@ -49,20 +64,6 @@ dateCreated: 2024-01-31T20:13:59.139Z
 </table>
 </center>
 
----
-> <b>Guide Support:</b>
-> For guide support, please contact the contributor / author directly. 
-{.is-info}
-
-> <b>Note:</b>
-> Please choose the right jailbreak for your application. An incorrect jailbreak may cause irreversible damage to your console. 
-{.is-warning}
-
-> <b>Warning:</b>
-> cmrguides will not be held responsible for any damages caused throughout the jailbreaking process! Jailbreaking is conducted at your own risk. 
-{.is-danger}
-
----
 
 
 

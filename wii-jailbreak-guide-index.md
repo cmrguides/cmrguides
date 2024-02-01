@@ -2,7 +2,7 @@
 title: Wii Jailbreaks
 description: Wii Jailbreak Guide Index
 published: true
-date: 2024-02-01T00:06:09.928Z
+date: 2024-02-01T00:09:00.775Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T20:13:59.139Z
@@ -21,8 +21,11 @@ dateCreated: 2024-01-31T20:13:59.139Z
   <tr>
     <td>Nintendo Wii</td>
     <td>LetterBomb</td>
+    <td>BlueBomb</td>
+    <td>str2hax</td>
+    <td>Wilbrand</td>
     <td>N/A</td>
-    <td>N/A</td>
+
   </tr>
   <tr>
     <td>Nintendo Wii</td>

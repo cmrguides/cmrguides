@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T16:51:39.736Z
+date: 2024-02-02T16:52:48.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z

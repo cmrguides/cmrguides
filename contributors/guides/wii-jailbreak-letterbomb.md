@@ -2,7 +2,7 @@
 title: Wii Jailbreak [LetterBomb]
 description: A guide on how to jailbreak you Wii using the LetterBomb expliot. 
 published: true
-date: 2024-02-02T12:56:38.714Z
+date: 2024-02-02T12:59:28.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T12:07:49.990Z
@@ -10,14 +10,14 @@ dateCreated: 2024-02-02T12:07:49.990Z
 
 # Wii Jailbreak Guide - LetterBomb
 <!--START GUIDE CONTENT UNDER THIS LINE-->
-### Introduction
+## Introduction
 <b>This guide will show you how to load LetterBomb, install the Homebrew Channel & jailbreak your Wii.</b>
 
 > This method should work with both the original wii (with GC ports), and the second revision (without GC ports).
 <br><b>It will not work on the Wii Mini.</b> 
 {.is-info}
 
-### Things you'll need
+## Things you'll need
 Before starting you'll need to ensure you have:
 - An SD Card which is 4GB or larger.
 - A computer with an SD card reader or a USB SD card reader.
@@ -25,7 +25,7 @@ Before starting you'll need to ensure you have:
 
 ---
 
-### Preparing the SD Card
+## Preparing the SD Card
 To start, you'll need to prepare your SD Card so that the Wii can read it. To do this, you'll need to format the SD Card. In this case you'll need to format it using the FAT32 file system. 
 
 > Other file system types will not work!
@@ -35,7 +35,7 @@ To start, you'll need to prepare your SD Card so that the Wii can read it. To do
 
 ---
 
-### Checking your Wii System Software version
+## Checking your Wii System Software version
 Next, you'll need to check your Wii System Software Version. 
 
 <b>This is important, so make a note of this. </b>

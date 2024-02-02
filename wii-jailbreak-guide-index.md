@@ -2,7 +2,7 @@
 title: Wii Jailbreaks
 description: Wii Jailbreak Guide Index
 published: true
-date: 2024-02-02T13:33:31.320Z
+date: 2024-02-02T14:24:48.622Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T20:13:59.139Z
@@ -21,6 +21,7 @@ dateCreated: 2024-01-31T20:13:59.139Z
     <th>Guide Revision Date</th>
     <th>Author / Contributor</th>
     <th>Exploit Creator</th>
+    <th>Guide Status</th>
   </tr>
   <tr>
     <td><a href="/contributors/guides/wii-jailbreak-letterbomb">Nintendo Wii</a></td>
@@ -28,13 +29,15 @@ dateCreated: 2024-01-31T20:13:59.139Z
     <td>02/02/2024</td>
     <td>cmrguides</td>
     <td>Team Twiizers</td>
+    <td style="background-color:#9CCC65;color:green;">Current</td>
   </tr>
   <tr>
     <td>Nintendo Wii</td>
     <td>Twilight Princess</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>02/02/2024</td>
+    <td>cmrguides</td>
+    <td>Team Twiizers</td>
+    <td style="background-color:#F9A19B;color:red;">Legacy</td>
   </tr>
    <tr>
     <td>Nintendo Wii Mini</td>
@@ -42,10 +45,12 @@ dateCreated: 2024-01-31T20:13:59.139Z
     <td></td>
     <td></td>
     <td></td>
+    <td style="background-color:#9CCC65;color:green;">Current</td>
   </tr>
    <tr>
     <td>Nintendo Wii U (vWii)</td>
     <td>Various</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

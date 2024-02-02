@@ -2,13 +2,13 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T16:43:49.920Z
+date: 2024-02-02T16:45:17.793Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
 ---
 
-# Wii Jailbreak Guide - LetterBomb
+# Wii Jailbreak Guide - Twilight Hack
 <!--START GUIDE CONTENT UNDER THIS LINE-->
 > This guide has been catergorised as a 'Legacy' guide. This is because it does not work with the latest system software version. It will still work under the correct conditions, but if in doubt, please use the LetterBomb guide instead.
 {.is-danger}

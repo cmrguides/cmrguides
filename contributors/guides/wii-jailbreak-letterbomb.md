@@ -2,7 +2,7 @@
 title: Wii Jailbreak [LetterBomb]
 description: A guide on how to jailbreak you Wii using the LetterBomb expliot. 
 published: true
-date: 2024-02-02T14:11:11.735Z
+date: 2024-02-02T14:11:30.459Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T12:07:49.990Z
@@ -19,7 +19,7 @@ dateCreated: 2024-02-02T12:07:49.990Z
 
 ## Things you'll need
 Before starting you'll need to ensure you have:
-- An SD Card which is 4GB. You can't use SDHC cards.
+- An SD Card which is 4GB or larger.
 - A computer with an SD card reader or a USB SD card reader.
 - A Wi-Fi connection for your Wii to connect to.
 

@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T14:37:03.666Z
+date: 2024-02-02T14:39:35.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
@@ -10,6 +10,81 @@ dateCreated: 2024-02-02T14:37:03.666Z
 
 # Wii Jailbreak Guide - LetterBomb
 <!--START GUIDE CONTENT UNDER THIS LINE-->
+> This guide has been catergorised as a 'Legacy' guide. This is because it does not work with the latest system software version. It will still work under the correct conditions, but if in doubt, please use the <a href"img {
+  -webkit-filter: drop-shadow(0px 16px 10px rgba(0,0,0,0.6));
+  -moz-filter: drop-shadow(0px 16px 10px rgba(0,0,0,0.6));
+  -ms-filter: drop-shadow(0px 16px 10px rgba(0,0,0,0.6));
+  -o-filter: drop-shadow(0px 16px 10px rgba(0,0,0,0.6));
+  filter: drop-shadow(0px 16px 10px rgba(0,0,0,.6))
+}
+footer {
+  position: relative;
+  width: 100%;
+  background: #3d2b49;
+  min-height: 100px;
+  padding: 20px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+p {
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 1.1em
+}
+footer .wave {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: url(/wave_final.png);
+  background-size: 1000px 100px
+}
+footer .wave#wave1 {
+  z-index: 1000;
+  opacity: 1;
+  bottom: 0;
+  animation: animateWave 15s linear infinite
+}
+footer .wave#wave2 {
+  z-index: 999;
+  opacity: .5;
+  bottom: 10px;
+  animation: animateWave_02 10s linear infinite
+}
+footer .wave#wave3 {
+  z-index: 1000;
+  opacity: .7;
+  bottom: 0;
+  animation: animateWave 6s linear infinite
+}
+footer .wave#wave4 {
+  z-index: 999;
+  opacity: .3;
+  bottom: 20px;
+  animation: animateWave_02 10s linear infinite
+}
+@keyframes animateWave {
+  0% {
+    background-position-x: 1000px
+  }
+  100% {
+    background-position-x: 0px
+  }
+}
+@keyframes animateWave_02 {
+  0% {
+    background-position-x: 0px
+  }
+  100% {
+    background-position-x: 1000px
+  }
+}LetterBomb guide instead.
+{.is-danger}
+
 ## Introduction
 <b>This guide will show you how to load LetterBomb, install the Homebrew Channel & jailbreak your Wii.</b>
 

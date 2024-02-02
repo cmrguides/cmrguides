@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T16:45:42.333Z
+date: 2024-02-02T16:47:07.991Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
@@ -102,7 +102,7 @@ Wii button on the bottom left > Data management > Save files:
 ---
 Check the inner ring on your game disc. You'll need this to determine the save file version to use. 
 
-Use this table to detrmine the version you'll need to run:
+Use this table to determine the version you'll need to run:
 <br>
 <center>
 <table><tbody><tr><th>Region</th>

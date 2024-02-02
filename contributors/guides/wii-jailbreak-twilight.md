@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T15:38:31.738Z
+date: 2024-02-02T16:43:49.920Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
@@ -31,6 +31,8 @@ Before starting you'll need to ensure you have:
 - A computer with an SD card reader or a USB SD card reader.
 - A copy of The Legend of Zelda: Twilight Princess.
 - A Nunchuck. You'll need this to load into the game. 
+- The Twilight Hack files. <a href="https://hbc.hackmii.com/get.php?file=twilight-hack-v0.1-beta1.zip&key=b9b4ef58c8c97c78f1692efe937beade6a6f5596">Click Here</a> for system versions 3.3 and earlier. <a href="https://hbc.hackmii.com/get.php?file=twilight-hack-v0.1-beta2.zip&key=37c2ee737421cce4853958da72849e16f34e2122">Click Here</a> for system version 3.4. See <br><b>'Checking your Wii System Software version'</b> prior to downloading.
+- <a href="https://bootmii.org/get.php?file=hackmii_installer_v1.2.zip&key=50c0cfefc556e3098e9fb6c69da0c744d2696804">HackMii</a> installer to install the Homebrew Channel. 
 
 ---
 
@@ -60,74 +62,105 @@ If you're running a later version, this exploit will not work. Consider using Le
 
 ---
 
-## Checking your Wii Mac Address
-You'll now need to check your Wii Mac Address. 
+## Playing the game
+Next, you'll need to play the first section of the game. You'll need to wait for the intro to load, and load fully into the game. 
 
-<b>Again, this is important, so make a note of this. </b>
+> You will lose your prevous Twilight save, so please back this up if you have one. Use a different SD Card for this. 
+{.is-warning}
 
-You'll find this in Wii Settings > Internet > Console Information.
+Once you reach this screen you'll want to save your game.
 <br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/macad.webp" height="480"></center>
+<center><img src=/guide-assets/administrator-assets/wii-jailbreak-twilight/firstload.png height="500"></center>
+
+Double check your Save Data to make sure it's present. 
 
 ---
 
-## Creating your LetterBomb
-Now it's time to create your LetterBomb. 
+## Copying the files to the SD Card. 
+Now it's time to copy over the downloaded files to your SD Card.
 
-Head over to <a href="http://please.hackmii.com" target="_blank">please.hackmii.com</a>
+Extract the contents of the Twilight Hack ZIP file you downloaded to the root of your SD Card. 
 
-Select your System Menu Version then enter your consoles MAC Address.
+Extract the boot.elf from the HackMii Installer ZIP file you downloaded to the root of your SD Card. 
 
-Leave 'Bundle the HackMii Installer for me!' selected.
+> Please make sure you use the boot.elf file and not boot.dol as this won't work.
+{.is-warning}
 
-Confirm you're not a robot then click 'Cut the red wire'.
-<br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/lb.png" height=""></center>
 
-> Once LetterBomb.zip has downloaded, open the file and extract it to the root of your SD Card.
+---
+
+## Preparing the exploit
+> Remove your SD Card from your computer and insert it into your Wii. 
 {.is-info}
+
+First of all you'll need to delete the current save data for Twlight Princess. 
+
+Wii button on the bottom left > Data management > Save files:
+<br>
+<center><img src=/guide-assets/administrator-assets/wii-jailbreak-twilight/erasesave.png></center>
+
+---
+Check the inner ring on your game disc. You'll need this to determine the save file version to use. 
+
+Use this table to detrmine the version you'll need to run:
+<br>
+<center>
+<table><tbody><tr><th>Region</th>
+<th>Inner circle text</th>
+<th>Save slot
+</th></tr><tr><td>Europe/Australia (EUR)</td>
+<td>RVL-RZDP-0A-0 JPN</td>
+<td>Twilight Hack
+</td></tr><tr><td>Asia (JPN)</td>
+<td>RVL-RZDJ-0A-0 JPN</td>
+<td>Twilight Hack
+</td></tr><tr><td>America (USA)</td>
+<td>RVL-RZDE-0A-0 JPN</td>
+<td>TwilightHack0
+</td></tr><tr><td>America (USA)</td>
+<td>RVL-RZDE-0A-0 USA</td>
+<td>TwilightHack0
+</td></tr><tr><td>America (USA)</td>
+<td>RVL-RZDE-0A-2 USA</td>
+<td>TwilightHack2
+</td></tr></tbody></table>
+  </center>
+
+Switch over to the SD Card tab and choose the 'Twlight Hack' save file suitable for your games region. 
+
+Selet 'Copy' and then select 'Yes'. 
+
+Now you can exit out of the menu.
 
 ---
 
 ## Executing the exploit
-All of the prep work is now done. At this point, you won't need to use your computer again.
+Now you can insert your copy of The Legend of Zelda: Twilight Princess.
 
-Make sure your Wii is plugged in and powered on. 
+When you reach the title screen, press A and B to get to the main menu. 
 
-Take your SD card, and put it into the Wii SD Card slot.
+Now load the 'Twilight Hack' save file.
 <br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/sd.webp" height=""></center>
+<center><img src=/guide-assets/administrator-assets/wii-jailbreak-twilight/gameload.png></center>
 
 ---
 
-Head over to the Wii Menu and click the envelope icon in the bottom-right corner. 
+Once you've loaded in, walk over to the first character you see and interact with them. 
 
-You'll now see a single envelope. Click left to browse back one day. 
-
-Now click the LetterBomb message and it will execute the exploit.
+You'll begin the conversation, the the Elf Launcher will load, followed by the HackMii installer.
 <br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/bomb.webp" height="400"></center>
+<center><img src=/guide-assets/administrator-assets/wii-jailbreak-twilight/interact-homebrew.png></center>
 
----
+Choose 'Install The Homebrew Channel', then confirm your choice with 'Yes, continue'.
 
-## Installing the Homebrew Channel
-
-After executing th exploit, you'll be presented with the following screen:
-<br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/hackmii.webp" height=""></center>
-
-Choose 'Install The Homebrew Channel', then confirm your choice with 'Yes, continue'. 
-
-> It is heavily advised that you also install BootMii / PriiLoader at this point as it's an important brick protection software. 
+> It is heavily advised that you also install BootMii / PriiLoader at this point as it's an important brick protection software.
 {.is-warning}
 
 When it's finished, click continue.
 
----
-
 ## Finished
 
-If everything went well, you should now be running LetterBomb with the Homebrew Channel!
+If everything went well, you should now be running the Twilight Hack with the Homebrew Channel!
 <br>
 <center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/brew.webp" height=""></center>
 

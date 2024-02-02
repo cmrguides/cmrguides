@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T16:47:07.991Z
+date: 2024-02-02T16:51:39.736Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
@@ -16,7 +16,7 @@ dateCreated: 2024-02-02T14:37:03.666Z
 ## Introduction
 <b>This guide will show you how use the Twlight Hack to jailbreak your Wii and how to install the Homebrew Channel.</b>
 
-This was the first jailbreak created for the Wii and is probablt the most well known. It uses a modified game save for the game The Legend of Zelda: Twilight Princess.
+This was the first jailbreak created for the Wii and is probably the most well known. It uses a modified game save for the game The Legend of Zelda: Twilight Princess.
 
 It works by using a data overflow to load data that isn't supposed to be loaded. The name of Links 
 

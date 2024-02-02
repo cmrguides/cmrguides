@@ -2,7 +2,7 @@
 title: Wii Jailbreaks
 description: Wii Jailbreak Guide Index
 published: true
-date: 2024-02-02T14:25:51.934Z
+date: 2024-02-02T16:44:54.648Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T20:13:59.139Z
@@ -32,7 +32,7 @@ dateCreated: 2024-01-31T20:13:59.139Z
     <td style="background-color:#9CCC65;color:green;">Current</td>
   </tr>
   <tr>
-    <td>Nintendo Wii</td>
+    <td><a href="/contributors/guides/wii-jailbreak-twilight">Nintendo Wii</a></td>
     <td>Twilight Hack</td>
     <td>02/02/2024</td>
     <td>cmrguides</td>

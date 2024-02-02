@@ -2,7 +2,7 @@
 title: Wii Jailbreak [Twilight Hack]
 description: A guide on how to jailbreak you Wii using the Twilight Hack expliot. 
 published: true
-date: 2024-02-02T15:03:31.368Z
+date: 2024-02-02T15:38:31.738Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-02T14:37:03.666Z
@@ -27,19 +27,20 @@ It works by using a data overflow to load data that isn't supposed to be loaded.
 
 ## Things you'll need
 Before starting you'll need to ensure you have:
-- An SD Card which is 4GB or larger.
+- An SD Card which is 2GB or smaller. You cannot use SDHC cards.
 - A computer with an SD card reader or a USB SD card reader.
-- A Wi-Fi connection for your Wii to connect to.
+- A copy of The Legend of Zelda: Twilight Princess.
+- A Nunchuck. You'll need this to load into the game. 
 
 ---
 
 ## Preparing the SD Card
-To start, you'll need to prepare your SD Card so that the Wii can read it. To do this, you'll need to format the SD Card. In this case you'll need to format it using the FAT32 file system. 
+To start, you'll need to prepare your SD Card so that the Wii can read it. To do this, you'll need to format the SD Card. In this case you'll need to format it using the FAT32 / FAT16 file system. 
 
 > Other file system types will not work!
 {.is-warning}
 
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/format.webp"></center>
+<center><img src="/guide-assets/administrator-assets/wii-jailbreak-twilight/format.png"></center>
 
 ---
 
@@ -50,12 +51,12 @@ Next, you'll need to check your Wii System Software Version.
 
 Click the Wii button thats on the bottom-left of the Wii menu, then select Wii Settings. You'll see it in the top-right corner.
 
-> It needs to be version 4.3 followed by U, J, E or K. The letters correspond to the region of the console.
+> It needs to be version 3.3 or 3.4 for this exploit to work.
 {.is-info}
 
-If your system is running an earlier version, you'll need to update this in the settings using Wii System Update.
+If you're running a later version, this exploit will not work. Consider using LetterBomb instead. 
 <br>
-<center><img src="/guide-assets/administrator-assets/wii-jailbreak-letterbomb/images/wiimenu.webp"></center>
+<center><img src=/guide-assets/administrator-assets/wii-jailbreak-twilight/wiimenu.png></center>
 
 ---
 

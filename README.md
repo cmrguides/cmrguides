@@ -17,5 +17,5 @@ Includes loads of tools, and utilities.</br>
 **[Download today!]**
 https://sourceforge.net/projects/daftpunklinux/</br>
 
-[![Website](https://tinyurl.com/bdffr5tr)](https://home.venith.net)<br>
+[![Website](https://tinyurl.com/bdffr5tr)](https://cmrguides.co.uk)<br>
 [![Discord](https://tinyurl.com/3b9s4sz7)](https://discord.gg/xFZRazxP)<br>
